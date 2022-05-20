@@ -41,10 +41,10 @@ Finally, 39 patients with pathological-confirmed primary diffuse glioma were enr
 use U-Net as backbone.
 <table frame=void>
 	<tr>		  
-    <td><center><img src="figures/N2N.bmp"		
+    <td><center><img src="figures/N2N.BMP"		
                      alt="x"
                      height="填数字作为高度"/></center></td>	
-    <td><center><img src="figures/N2V.bmp"
+    <td><center><img src="figures/N2V.BMP"
                      alt="x"
                      height="高度一致会好看"/></center></td>
     </tr>
