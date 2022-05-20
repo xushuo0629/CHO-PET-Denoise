@@ -34,7 +34,10 @@ This was a retrospective investigation on a prospective CHO PET cohort which was
 4) histopatho-logical proved that the brain lesions to be primary diffuse glioma; 
 5) no anti-tumor treatment prior to PET/CT or surgery. 
 
-Finally, 39 patients with pathological-confirmed primary diffuse glioma were enrolled for CHO PET/CT and included in the current study. The data presented in this study are available on request from the corresponding author.
+Finally, 39 patients with pathological-confirmed primary diffuse glioma were enrolled for CHO PET/CT and included in the current study.
+
+The data presented in this study are available on request from the corresponding author. Please do
+contact  Yucheng Zhang   at  yucheng-18@mails.tsinghua.edu.cn
 
 ## Network architecture
 
