@@ -4,7 +4,7 @@
 by *[Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21).
 ****
 
-🔔 This is the code of [Applied Sciences-1666741]Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches
+🔔 This is the code of [Applied Sciences-1666741][Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches](https://www.mdpi.com/2076-3417/12/10/5187/pdf)
 
 🔔 The code includes four denoise algorithms：N2N, N2V, BM3D, NLM
 
