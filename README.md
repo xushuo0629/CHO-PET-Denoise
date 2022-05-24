@@ -18,7 +18,6 @@ In this study, we used some open source code. Thank these authors for their cont
 
 * [Noise2Void](https://arxiv.org/abs/1811.10980) : [hanyoseob/pytorch-noise2void](https://github.com/hanyoseob/pytorch-noise2void)
 
-
 * [BM3D](https://webpages.tuni.fi/foi/GCF-BM3D/) : [glemaitre/BM3D](https://github.com/glemaitre/BM3D)
 
 * NLM
